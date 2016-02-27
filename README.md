@@ -1,6 +1,9 @@
 #EvoPoints
 EvoPoints is a PoS/POW-based cryptocurrency.
 
+- RPC port	6298
+- P2P port	6297
+
 - PoS Interest	11% per year
 - Last PoW block	block 4600
 - Maturity	23 blocks
